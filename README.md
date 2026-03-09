@@ -45,7 +45,7 @@ Automated retrieval of InfoCuria case data and construction of the event log.
 
 ### 2 - Compliance Analysis Pipeline  
 
-Rule extraction, Declare model generation, deterministic conformance checking, impact ranking, and LLM disagreement study.  
+Rule extraction, Declare model generation, deterministic conformance checking, impact ranking, and LLM agreement study.  
 *[https://github.com/roberto-nai/CURIA-CONFORMANCE](https://github.com/roberto-nai/CURIA-CONFORMANCE)*
 
 ---
